@@ -25,4 +25,3 @@ In the 2nd block, you can input the value of k for K-Means to find centroids as 
 input the parameters for GMM. Run until the 18th block where you can input the value of k for K-Means to find centroids as initial means.
 Run until the 20th block where you can input the parameters for GMM.
 
-*******Thank You*********
